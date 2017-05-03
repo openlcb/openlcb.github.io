@@ -19,7 +19,8 @@
                   "online":""
                },
                "boards":[
-                  { "name": "Io" }
+                  { "name": "Io" },
+                  { "name": "Io:duino" }
                ],
                "toolsDependencies":[]
             }
