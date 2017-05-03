@@ -1,0 +1,30 @@
+{
+   "packages":[
+      {
+         "name": "RailStars-Io",
+         "maintainer": "OpenLCB Group",
+         "websiteURL": "http://openlcb.org",
+         "email": "",
+         "platforms":[
+            {
+               "name": "RailStars-Io Boards",
+               "architecture": "avr",
+               "version": "1.0.0",
+               "category": "Contributed",
+               "url": "https://github.com/openlcb/RailStars-Io/archive/1.0.0.zip",
+               "archiveFileName": "RailStars-Io-1.0.0.zip",
+               "checksum": "SHA:c6357c2ee90fa847f036f05298d1d7b93412cad8",
+               "size": "37200",
+               "help":{
+                  "online":""
+               },
+               "boards":[
+                  { "name": "Io" }
+               ],
+               "toolsDependencies":[]
+            }
+         ],
+         "tools":[]
+      }
+   ]
+}
