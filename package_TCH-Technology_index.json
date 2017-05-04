@@ -1,0 +1,33 @@
+{
+   "packages":[
+      {
+         "name": "TCH-Technology",
+         "maintainer": "OpenLCB Group",
+         "websiteURL": "http://openlcb.org",
+         "email": "",
+         "platforms":[
+            {
+               "name": "TCH-Technology Boards",
+               "architecture": "avr",
+               "version": "1.0.0",
+               "category": "Contributed",
+               "url": "https://github.com/openlcb/TCH-Technologies/archive/1.0.0.zip",
+               "archiveFileName": "TCH-Technologies-1.0.0.zip",
+               "checksum": "SHA:89995fe911219623d1fff3c832b4c6c1a31d946f",
+               "size": "103874",
+               "help":{
+                  "online":""
+               },
+               "boards":[
+                  { "name": "TCH Technology Consumer" },
+                  { "name": "TCH Technology Producer" },
+                  { "name": "TCH Technology Producer_Consumer" },
+                  { "name": "TCH Technology Version .1 boards" }
+               ],
+               "toolsDependencies":[]
+            }
+         ],
+         "tools":[]
+      }
+   ]
+}
