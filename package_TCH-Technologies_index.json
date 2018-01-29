@@ -31,8 +31,8 @@
                "architecture": "avr",
                "version": "1.0.1",
                "category": "Contributed",
-               "url": "https://github.com/openlcb/TCH-Technologies/archive/1.0.0.zip",
-               "archiveFileName": "TCH-Technologies-1.0.0.zip",
+               "url": "https://github.com/openlcb/TCH-Technologies/archive/1.0.1.zip",
+               "archiveFileName": "TCH-Technologies-1.0.1.zip",
                "checksum": "SHA:6b1ed62d680f1a953e0b79e84a661d41fab0b6dd",
                "size": "103907",
                "help":{
