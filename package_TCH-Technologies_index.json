@@ -25,6 +25,26 @@
                   { "name": "TCH Technology Version .1 boards" }
                ],
                "toolsDependencies":[]
+            },
+            {
+               "name": "TCH-Technology Boards",
+               "architecture": "avr",
+               "version": "1.0.1",
+               "category": "Contributed",
+               "url": "https://github.com/openlcb/TCH-Technologies/archive/1.0.0.zip",
+               "archiveFileName": "TCH-Technologies-1.0.0.zip",
+               "checksum": "SHA:6b1ed62d680f1a953e0b79e84a661d41fab0b6dd",
+               "size": "103907",
+               "help":{
+                  "online":""
+               },
+               "boards":[
+                  { "name": "TCH Technology Consumer" },
+                  { "name": "TCH Technology Producer" },
+                  { "name": "TCH Technology Producer_Consumer" },
+                  { "name": "TCH Technology Version .1 boards" }
+               ],
+               "toolsDependencies":[]
             }
          ],
          "tools":[]
