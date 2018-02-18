@@ -9,12 +9,12 @@
             {
                "name": "TCH-Technology Boards",
                "architecture": "avr",
-               "version": "1.0.0",
+               "version": "1.0.1",
                "category": "Contributed",
-               "url": "https://github.com/openlcb/TCH-Technologies/archive/1.0.0.zip",
-               "archiveFileName": "TCH-Technologies-1.0.0.zip",
-               "checksum": "SHA:89995fe911219623d1fff3c832b4c6c1a31d946f",
-               "size": "103874",
+               "url": "https://github.com/openlcb/TCH-Technologies/archive/1.0.1.zip",
+               "archiveFileName": "TCH-Technologies-1.0.1.zip",
+               "checksum": "SHA:6b1ed62d680f1a953e0b79e84a661d41fab0b6dd",
+               "size": "103907",
                "help":{
                   "online":""
                },
@@ -29,12 +29,12 @@
             {
                "name": "TCH-Technology Boards",
                "architecture": "avr",
-               "version": "1.0.1",
+               "version": "1.0.2",
                "category": "Contributed",
-               "url": "https://github.com/openlcb/TCH-Technologies/archive/1.0.1.zip",
-               "archiveFileName": "TCH-Technologies-1.0.1.zip",
-               "checksum": "SHA:6b1ed62d680f1a953e0b79e84a661d41fab0b6dd",
-               "size": "103907",
+               "url": "https://github.com/openlcb/TCH-Technologies/archive/1.0.2.zip",
+               "archiveFileName": "TCH-Technologies-1.0.2.zip",
+               "checksum": "SHA:f9aafcaac40b00c92639237a2849236955406e68",
+               "size": "103983",
                "help":{
                   "online":""
                },
