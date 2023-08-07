@@ -13,7 +13,7 @@
                "category": "Contributed",
                "url": "https://github.com/openlcb/RailStars-Io/archive/1.0.0.zip",
                "archiveFileName": "RailStars-Io-1.0.0.zip",
-               "checksum": "SHA:f525dc454f76f1bdfa724dffd6bd05ab99e8cfbd",
+               "checksum": "SHA-1:f525dc454f76f1bdfa724dffd6bd05ab99e8cfbd",
                "size": "37204",
                "help":{
                   "online":"https://github.com/openlcb/RailStars-Io"
@@ -31,7 +31,7 @@
                "category": "Contributed",
                "url": "https://github.com/openlcb/RailStars-Io/archive/1.1.0.zip",
                "archiveFileName": "RailStars-Io-1.1.0.zip",
-               "checksum": "SHA:482f0abb6927d71ba4c56e24c642d5f359536e4e",
+               "checksum": "SHA-1:482f0abb6927d71ba4c56e24c642d5f359536e4e",
                "size": "29011",
                "help":{
                   "online":"https://github.com/openlcb/RailStars-Io"
@@ -49,7 +49,7 @@
                "category": "Contributed",
                "url": "https://github.com/openlcb/RailStars-Io/archive/1.2.0.zip",
                "archiveFileName": "RailStars-Io-1.2.0.zip",
-               "checksum": "SHA:d83149131afa1f3d5405038c7a74ccf3aa8ad22c",
+               "checksum": "SHA-1:d83149131afa1f3d5405038c7a74ccf3aa8ad22c",
                "size": "28777",
                "help":{
                   "online":"https://github.com/openlcb/RailStars-Io"
@@ -67,7 +67,7 @@
                "category": "Contributed",
                "url": "https://github.com/openlcb/RailStars-Io/archive/1.3.0.zip",
                "archiveFileName": "RailStars-Io-1.3.0.zip",
-               "checksum": "SHA:954df25738fd37f1214a76aabf0a1d790778ae3d",
+               "checksum": "SHA-1:954df25738fd37f1214a76aabf0a1d790778ae3d",
                "size": "21073",
                "help":{
                   "online":"https://github.com/openlcb/RailStars-Io"
