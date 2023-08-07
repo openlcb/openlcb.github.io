@@ -59,6 +59,24 @@
                   { "name": "Io:duino" }
                ],
                "toolsDependencies":[]
+            },
+            {
+               "name": "RailStars-Io Boards",
+               "architecture": "avr",
+               "version": "1.3.0",
+               "category": "Contributed",
+               "url": "https://github.com/openlcb/RailStars-Io/archive/1.3.0.zip",
+               "archiveFileName": "RailStars-Io-1.3.0.zip",
+               "checksum": "SHA:954df25738fd37f1214a76aabf0a1d790778ae3d",
+               "size": "21073",
+               "help":{
+                  "online":"https://github.com/openlcb/RailStars-Io"
+               },
+               "boards":[
+                  { "name": "Io" },
+                  { "name": "Io:duino" }
+               ],
+               "toolsDependencies":[]
             }
 
          ],
