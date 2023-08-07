@@ -5,6 +5,9 @@
          "maintainer": "OpenLCB Group",
          "websiteURL": "http://openlcb.org",
          "email": "",
+         "help": {
+             "online": "https://github.com/openlcb/RailStars-Io"
+         },
          "platforms":[
             {
                "name": "RailStars-Io Boards",
